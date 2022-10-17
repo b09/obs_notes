@@ -25,3 +25,14 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+
+
+# ⚛️ Information Technology Advanced Theory (A2 9626)
+\
+<tab>
+### 📱 Chapter 11 (Emerging Technologies):
+- [Chapter-11-Emerging-Technologes](Chapter-11-Emerging-Tech/Chapter-11-Emerging-Technologes.md)
+\
+\
+\
+
