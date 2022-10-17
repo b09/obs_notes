@@ -36,3 +36,5 @@ If you prefer browsing the contents of this site through a list instead of a gra
 \
 \
 
+## START HERE
+> Step 0: [Entry point into notes](bprado_vault_orig/START%20HERE.md)

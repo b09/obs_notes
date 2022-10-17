@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "3fe2fc50fc729bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "adeea4e7c87527f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000935aef74941e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9708b6ee46aa01c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f136aae57872714d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2001c60f35342420",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03117dc8f9523f8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c57281bc6b41f018",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ba4c76739da42a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4359d52140c32e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2f13c63090d540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "START HERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c00f0cec0b6543d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "START HERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7164c9216378557b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5a7e038a9d3b746",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START HERE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "000935aef74941e6",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-10-12 16.18.49.excalidraw.md",
+    "START HERE.md"
+  ]
+}
