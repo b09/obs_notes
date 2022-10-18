@@ -38,4 +38,6 @@ add *vault* to **content** folder
 
 ![Drawing 2022-10-12 16.18.49.excalidraw](Excalidraw/Drawing%202022-10-12%2016.18.49.excalidraw.md)
 
+there should be an image^ above this line of text
+
 
