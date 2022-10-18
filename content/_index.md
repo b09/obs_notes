@@ -38,3 +38,6 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 ## START HERE
 > Step 0: [Entry point into notes](bprado_vault_orig/START%20HERE.md)
+
+## A DIFFERENT START HERE
+> Step ~: [Entry point into a different notes](obsidian_dataview_example_vault-master/README.md)
