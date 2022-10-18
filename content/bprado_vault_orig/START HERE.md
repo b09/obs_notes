@@ -46,6 +46,9 @@ there should be an image^ above this line of text
 another image below this line, a png
 ![Drawing 2022-10-12 16.18.49.excalidraw](Excalidraw/Drawing%202022-10-12%2016.18.49.excalidraw.png)
 
+same image above is also paster below:
+![Drawing 2022-10-12 16.18.49.excalidraw](Drawing%202022-10-12%2016.18.49.excalidraw.png)
+
 and another png below
 ![th-808838091](Excalidraw/th-808838091.jpg)
 
