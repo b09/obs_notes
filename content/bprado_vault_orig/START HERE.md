@@ -36,5 +36,6 @@ in what way could the data be organized? what meta
 
 add *vault* to **content** folder
 
+![Drawing 2022-10-12 16.18.49.excalidraw](Excalidraw/Drawing%202022-10-12%2016.18.49.excalidraw.md)
 
 
